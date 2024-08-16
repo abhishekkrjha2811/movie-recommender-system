@@ -1,8 +1,9 @@
-[kaggle.json](https://github.com/user-attachments/files/16641449/kaggle.json)## Movie Recommender System
+## Movie Recommender System
 
 **A Python-based project that predicts top 5 similar movies using vectorization techniques.**
 
 This project utilizes the TMDB 5000 Movie Dataset from Kaggle to build a robust movie recommender system.
+
 [Dataset link:](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 
